@@ -2,8 +2,6 @@
 
 Using [template](https://github.com/mmistakes/mm-github-pages-starter/) with the [Minimal Mistakes Jekyll theme](https://github.com/mmistakes/minimal-mistakes).
 
-See also [my personal page](https://teaplanetae.github.io/) that is built based on this template.
-
 ## Note
 * Homepage: I chose /about/ as homepage. The default homepage from the original [template](https://github.com/mmistakes/mm-github-pages-starter/) is a page of recent posts. To change back to this default homepage, 
     * first, change permanlink in _pages/about.md and _data/navigation.yml to /about/ (to keep /about in navbar),
