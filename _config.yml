@@ -10,3 +10,13 @@ url: "https://abdullah_shafqat.github.io"
 repository: "abdullahshafqat21/abdullah_shafqat.github.io"
 twitter_username: username
 github_username: username
+
+
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  - jemoji
+  - jekyll-include-cache
+  - gjekyll-seo-tag
