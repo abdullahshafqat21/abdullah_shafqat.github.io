@@ -11,6 +11,8 @@ repository: "abdullahshafqat21/abdullah_shafqat.github.io"
 twitter_username: username
 github_username: username
 
+include:
+  - _pages
 
 plugins:
   - jekyll-paginate
